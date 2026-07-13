@@ -1,4 +1,5 @@
 Task: Build the smallest possible backend — a server with two JSON endpoints — call it from curl and your browser, and publish it to a public GitHub repository.
+
 Used "/" and "/about" endpoints to show working of this task.
 Since there was no webpage or browser interface and task explicitly asked to use CURL for testing, I used CURL which sends HTTP requests to server.
 After typing "curl http://localhost:3000" on terminal; curl sends the exact same GET request that chrome sends on typing http://localhost:3000 this on chrome,
